@@ -1,9 +1,0 @@
-@import "tailwindcss";
-
-@theme {
-  --color-gold: #ffcc00;
-  --color-gold-glow: rgba(255, 204, 0, 0.3);
-  --color-deep-space: #050505;
-  --font-orbitron: var(--font-orbitron);
-  --font-rajdhani: var(--font-rajdhani);
-}
